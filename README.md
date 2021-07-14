@@ -1,14 +1,14 @@
 # Format-AWSkey-SMTPs
 Simple Tools Result File Formating (AWS Key / SMTPs)
-- [x] AWSkey Format to >> Aws_key|Aws_sec|Aws_reg
-- [x] SMTPs  Format to >> mailhost|port|mailuser|mailpass
+- AWSkey Format to >> Aws_key|Aws_sec|Aws_reg
+- SMTPs  Format to >> mailhost|port|mailuser|mailpass
 
-- Features:
-  - [x] With Threads
-  - [x] Easy-To-Use
+### Features:
+- [x] With Threads
+- [x] Easy-To-Use
 
-# Run
+### Run
 Python3 (Version)
 
-# Screenshot
+### Screenshot
 <img src="images/ss-formating.jpg">
