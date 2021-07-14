@@ -1,4 +1,4 @@
-# Format-AWS-SMTPs
+# Format-AWSkey-SMTPs
 Simple Tools Result File Formating (AWS Key / SMTPs)
 
 # Features:
